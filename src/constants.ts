@@ -22,7 +22,7 @@ export const BRAND_ASSETS = {
       title: "Everyday Elegance", 
       desc: "Subtle, minimalist pieces for daily wear.", 
       // Replace with your local path: "/images/collection1.jpg"
-      image: "/images/collection1.webp" 
+      image: "/images/collection1.jpg" 
     },
     { 
       title: "Statement Pieces", 
